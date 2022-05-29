@@ -31,3 +31,4 @@
 - git checkout branch_name переключение на указанную ветку
 - git merge branch_name слияние указанной ветки с текущей
 - git branch -d branch_name - удаление ветки
+Данная инструкция написана с помощью разметки Markdown
